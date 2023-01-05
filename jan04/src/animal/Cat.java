@@ -9,7 +9,6 @@ public class Cat extends Animal {
 
 	@Override
 	public void add() {
-		// TODO Auto-generated method stub
 		
 	}
 
